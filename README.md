@@ -1,16 +1,21 @@
-## Hi there 👋
+markdowm
+Bem vindo ao meu portfolio! 
+Aqui compartilhado projetos e aprendizados duranteminha carreira na engenharia e projetos de dados
 
-<!--
-**silvaniaalmeida/silvaniaalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre mim
+Trabalhei durante 20 anos na GERDAU  na area de engenharia e depois na transforma;áo digital, coordenei cria;áo de portal web para aumentar a produtividade das equipestimes de engenharia
+Tenho experiencia em orçamentos de projetos capex, gestão de projetos e portfolios, projetos de Dados e Inovação. Procurando transferir minha experiência para agentes de IA.
 
-Here are some ideas to get you started:
+Projetos em Destaque
+Projetos De Dados para Projetos de Engenhari Capex - AWS - Databricks
+Projetos de Desenvolvimento de Portal WEb para aumentar produtividade das equipes, eliminando tarefas manuais e centrailizando e organizando os dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Habilidades
+Engenharia de Processos
+Gerenciamento de Projetos
+Metodologia Ageis
+Python, Governan;a de Dados, Data Analytics, Engineering Analytics, Databricks, Agentes de IA.
+
+Contato
+silvaniaalmeida55@gmail.com
+LinkedIn https://www.linkedin.com/in/silvania-almeida-5432b515/
