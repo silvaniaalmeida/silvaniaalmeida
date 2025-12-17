@@ -1,6 +1,6 @@
 
 Bem vindo ao meu portfolio! 
-Aqui compartilhado projetos e aprendizados duranteminha carreira na engenharia e projetos de dados
+Aqui compartilhado projetos e aprendizados durante minha carreira na engenharia e projetos de dados
 
 Sobre mim
 Trabalhei durante 20 anos na GERDAU  na area de engenharia e depois na transforma;áo digital, coordenei cria;áo de portal web para aumentar a produtividade das equipestimes de engenharia
@@ -14,8 +14,8 @@ Habilidades
 Engenharia de Processos
 Gerenciamento de Projetos
 Metodologia Ageis
-Python, Governan;a de Dados, Data Analytics, Engineering Analytics, Databricks, Agentes de IA.
+Python, Governaca de Dados, Data Analytics, Engineering Analytics, Databricks, Agentes de IA, IAC, CLouding Computing
 
 Contato
 silvaniaalmeida55@gmail.com
-LinkedIn https://www.linkedin.com/in/silvania-almeida-5432b515/
+LinkedIn https://www.linkedin.com/in/silvania-almeida/
